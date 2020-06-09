@@ -123,7 +123,7 @@ int main()
 			if (check(boxX, dinoY)) //충돌 판단
 				break;
 
-			if (getkey() == 'z' && Bottom)
+			if (getkey() == 32 && Bottom)
 			{
 				Jumping = true;
 				Bottom = false;
