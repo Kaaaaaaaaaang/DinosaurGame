@@ -1,2 +1,3 @@
-﻿  Game.cpp
+﻿  Game.c
+C:\C_Game\Dinosaur\Dinosaur\Game.c(10,25): warning C4091: 'typedef ': 변수를 선언하지 않으면 '<unnamed-enum-false>' 왼쪽은 무시됩니다.
   Dinosaur.vcxproj -> C:\C_Game\Dinosaur\Debug\Dinosaur.exe
